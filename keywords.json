@@ -1,62 +1,7 @@
-[
-  {
-    "id": "bleed",
-    "name": "출혈",
-    "color": "#e05b65",
-    "category": "combat_keyword"
-  },
-  {
-    "id": "rupture",
-    "name": "파열",
-    "color": "#78c58b",
-    "category": "combat_keyword"
-  },
-  {
-    "id": "sinking",
-    "name": "침잠",
-    "color": "#6ea8e8",
-    "category": "combat_keyword"
-  },
-  {
-    "id": "burn",
-    "name": "화상",
-    "color": "#ed9c52",
-    "category": "combat_keyword"
-  },
-  {
-    "id": "poise",
-    "name": "호흡",
-    "color": "#c0a0f5",
-    "category": "combat_keyword"
-  },
-  {
-    "id": "charge",
-    "name": "충전",
-    "color": "#e8cc61",
-    "category": "combat_keyword"
-  },
-  {
-    "id": "tremor",
-    "name": "진동",
-    "color": "#dd8bc6",
-    "category": "combat_keyword"
-  },
-  {
-    "id": "slash",
-    "name": "참격",
-    "color": "#e7a6a6",
-    "category": "attack_type"
-  },
-  {
-    "id": "pierce",
-    "name": "관통",
-    "color": "#9bc9e8",
-    "category": "attack_type"
-  },
-  {
-    "id": "blunt",
-    "name": "타격",
-    "color": "#c6a47c",
-    "category": "attack_type"
-  }
-]
+{
+  "version": "1.0",
+  "updated": "2026-10-11",
+  "identity_count": 189,
+  "gift_count": 30,
+  "keywords": 10
+}
