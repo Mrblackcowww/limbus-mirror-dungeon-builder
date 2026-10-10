@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bleed",
+    "name": "출혈",
+    "color": "#e05b65"
+  },
+  {
+    "id": "rupture",
+    "name": "파열",
+    "color": "#78c58b"
+  },
+  {
+    "id": "sinking",
+    "name": "침잠",
+    "color": "#6ea8e8"
+  },
+  {
+    "id": "burn",
+    "name": "화상",
+    "color": "#ed9c52"
+  },
+  {
+    "id": "poise",
+    "name": "호흡",
+    "color": "#c0a0f5"
+  },
+  {
+    "id": "charge",
+    "name": "충전",
+    "color": "#e8cc61"
+  },
+  {
+    "id": "tremor",
+    "name": "진동",
+    "color": "#dd8bc6"
+  }
+]

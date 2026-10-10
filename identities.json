@@ -1,0 +1,197 @@
+[
+  {
+    "id": "bleed_gift_1",
+    "name": "핏빛 가시",
+    "keyword": "bleed",
+    "tier": 1,
+    "description": "출혈 빌드용 예시 기프트. 실제 효과값은 추후 입력.",
+    "upgradeTo": "bleed_gift_2",
+    "recipe": [
+      "bleed_gift_1",
+      "bleed_gift_1"
+    ],
+    "verified": false
+  },
+  {
+    "id": "bleed_gift_2",
+    "name": "핏빛 가시 (강화)",
+    "keyword": "bleed",
+    "tier": 2,
+    "description": "강화 기프트 예시.",
+    "upgradeTo": "bleed_gift_3",
+    "recipe": [
+      "bleed_gift_1",
+      "bleed_gift_1"
+    ],
+    "verified": false
+  },
+  {
+    "id": "bleed_gift_3",
+    "name": "핏빛 가시 (최종 강화)",
+    "keyword": "bleed",
+    "tier": 3,
+    "description": "최종 강화 기프트 예시.",
+    "upgradeTo": null,
+    "recipe": [
+      "bleed_gift_2",
+      "bleed_gift_2"
+    ],
+    "verified": false
+  },
+  {
+    "id": "rupture_gift_1",
+    "name": "균열의 파편",
+    "keyword": "rupture",
+    "tier": 1,
+    "description": "파열 빌드용 예시 기프트.",
+    "upgradeTo": "rupture_gift_2",
+    "recipe": [
+      "rupture_gift_1",
+      "rupture_gift_1"
+    ],
+    "verified": false
+  },
+  {
+    "id": "rupture_gift_2",
+    "name": "균열의 파편 (강화)",
+    "keyword": "rupture",
+    "tier": 2,
+    "description": "강화 기프트 예시.",
+    "upgradeTo": null,
+    "recipe": [
+      "rupture_gift_1",
+      "rupture_gift_1"
+    ],
+    "verified": false
+  },
+  {
+    "id": "sinking_gift_1",
+    "name": "가라앉은 기억",
+    "keyword": "sinking",
+    "tier": 1,
+    "description": "침잠 빌드용 예시 기프트.",
+    "upgradeTo": "sinking_gift_2",
+    "recipe": [
+      "sinking_gift_1",
+      "sinking_gift_1"
+    ],
+    "verified": false
+  },
+  {
+    "id": "sinking_gift_2",
+    "name": "가라앉은 기억 (강화)",
+    "keyword": "sinking",
+    "tier": 2,
+    "description": "강화 기프트 예시.",
+    "upgradeTo": null,
+    "recipe": [
+      "sinking_gift_1",
+      "sinking_gift_1"
+    ],
+    "verified": false
+  },
+  {
+    "id": "poise_gift_1",
+    "name": "선명한 궤적",
+    "keyword": "poise",
+    "tier": 1,
+    "description": "호흡 빌드용 예시 기프트.",
+    "upgradeTo": "poise_gift_2",
+    "recipe": [
+      "poise_gift_1",
+      "poise_gift_1"
+    ],
+    "verified": false
+  },
+  {
+    "id": "poise_gift_2",
+    "name": "선명한 궤적 (강화)",
+    "keyword": "poise",
+    "tier": 2,
+    "description": "강화 기프트 예시.",
+    "upgradeTo": null,
+    "recipe": [
+      "poise_gift_1",
+      "poise_gift_1"
+    ],
+    "verified": false
+  },
+  {
+    "id": "burn_gift_1",
+    "name": "꺼지지 않는 불씨",
+    "keyword": "burn",
+    "tier": 1,
+    "description": "화상 빌드용 예시 기프트.",
+    "upgradeTo": "burn_gift_2",
+    "recipe": [
+      "burn_gift_1",
+      "burn_gift_1"
+    ],
+    "verified": false
+  },
+  {
+    "id": "burn_gift_2",
+    "name": "꺼지지 않는 불씨 (강화)",
+    "keyword": "burn",
+    "tier": 2,
+    "description": "화상 빌드용 강화 예시 기프트.",
+    "upgradeTo": null,
+    "recipe": [
+      "burn_gift_1",
+      "burn_gift_1"
+    ],
+    "verified": false
+  },
+  {
+    "id": "charge_gift_1",
+    "name": "축전 장치",
+    "keyword": "charge",
+    "tier": 1,
+    "description": "충전 빌드용 예시 기프트.",
+    "upgradeTo": "charge_gift_2",
+    "recipe": [
+      "charge_gift_1",
+      "charge_gift_1"
+    ],
+    "verified": false
+  },
+  {
+    "id": "charge_gift_2",
+    "name": "축전 장치 (강화)",
+    "keyword": "charge",
+    "tier": 2,
+    "description": "충전 빌드용 강화 예시 기프트.",
+    "upgradeTo": null,
+    "recipe": [
+      "charge_gift_1",
+      "charge_gift_1"
+    ],
+    "verified": false
+  },
+  {
+    "id": "tremor_gift_1",
+    "name": "진동 공명체",
+    "keyword": "tremor",
+    "tier": 1,
+    "description": "진동 빌드용 예시 기프트.",
+    "upgradeTo": "tremor_gift_2",
+    "recipe": [
+      "tremor_gift_1",
+      "tremor_gift_1"
+    ],
+    "verified": false
+  },
+  {
+    "id": "tremor_gift_2",
+    "name": "진동 공명체 (강화)",
+    "keyword": "tremor",
+    "tier": 2,
+    "description": "진동 빌드용 강화 예시 기프트.",
+    "upgradeTo": null,
+    "recipe": [
+      "tremor_gift_1",
+      "tremor_gift_1"
+    ],
+    "verified": false
+  }
+]
